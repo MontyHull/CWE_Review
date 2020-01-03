@@ -1,0 +1,1 @@
+new i := 0; new sum:= 0; read i; while i != 0 { sum := sum +i;} write sum;

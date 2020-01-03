@@ -1,0 +1,30 @@
+/* SI 413 Fall 2013
+ * Lab 6
+ * Scanner specification for the pat language (part 1)
+ * Micky Hall
+ * Michael Butts
+ */
+%{
+#include <iostream>
+using namespace std;
+#include "pat1.tab.hpp"
+%}
+
+%option noyywrap
+
+%%
+[a-z][a-zA-Z0-9]* { yylval = new ParseTree(yytext); return SYM; }
+"*"               { yylval = new ParseTree(yytext); return FOLD; }
+";"               { yylval = new ParseTree(yytext); return STOP; }
+":"               { yylval = new ParseTree(yytext); return COLON; }
+[A-Z][a-zA-Z0-9]* { yylval = new ParseTree(yytext); return NAME; }
+"_r"              { yylval = new ParseTree(yytext); return REV; }
+"["               { yylval = new ParseTree(yytext); return LB; }
+"]"               { yylval = new ParseTree(yytext); return RB; }
+<<EOF>>           { return 0; }
+[ \t\n]+          { }
+.                 { errout << "Unrecognized token starting with"
+                           << yytext << endl;
+                    exit(1);
+                  }
+%%

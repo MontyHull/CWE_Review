@@ -1,0 +1,21 @@
+# git config --global core.excludesfile 
+#### Editors
+.*.swp
+.swp
+*~
+#### Compiled
+*.o
+*.class
+__pycache__/
+*.sage.py
+#### Latex
+*.out
+*.log
+*.nav
+*.snm
+*.toc
+*.vrb
+*.aux
+*.bbl
+*.brf
+*.blg

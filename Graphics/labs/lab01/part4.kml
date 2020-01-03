@@ -1,0 +1,5053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <Placemark>
+     <name>Maryland</name>
+     <description>6989579585</description>
+     <Point>
+         <coordinates>-076.674493900,38.9466584</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland</name>
+     <description>6597113154</description>
+     <Point>
+         <coordinates>-076.701386200,39.0688335</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland</name>
+     <description>3271165812</description>
+     <Point>
+         <coordinates>-076.806419600,39.1502045</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland</name>
+     <description>31799549</description>
+     <Point>
+         <coordinates>-076.711095400,39.2782392</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland</name>
+     <description>3239366263</description>
+     <Point>
+         <coordinates>-076.801400200,39.1235379</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland</name>
+     <description>3325947342</description>
+     <Point>
+         <coordinates>-075.900883100,38.4417069</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland</name>
+     <description>13295214</description>
+     <Point>
+         <coordinates>-076.023116400,38.5325136</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland</name>
+     <description>3312652128</description>
+     <Point>
+         <coordinates>-075.903980000,38.4353887</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland</name>
+     <description>392466431</description>
+     <Point>
+         <coordinates>-076.276940200,39.1408597</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Allegany County</name>
+     <description>14954037</description>
+     <Point>
+         <coordinates>-078.703108406,39.6123087</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Anne Arundel County</name>
+     <description>447805092</description>
+     <Point>
+         <coordinates>-076.560511106,38.9933743</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Baltimore County</name>
+     <description>216144619</description>
+     <Point>
+         <coordinates>-076.616569306,39.4431666</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Calvert County</name>
+     <description>341669638</description>
+     <Point>
+         <coordinates>-076.525863906,38.5213575</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Caroline County</name>
+     <description>16789670</description>
+     <Point>
+         <coordinates>-075.831631106,38.8715312</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Carroll County</name>
+     <description>13190001</description>
+     <Point>
+         <coordinates>-077.015512106,39.5631892</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cecil County</name>
+     <description>185350813</description>
+     <Point>
+         <coordinates>-075.941584306,39.5623524</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Charles County</name>
+     <description>479715576</description>
+     <Point>
+         <coordinates>-077.015427206,38.4728532</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Dorchester County</name>
+     <description>1145393243</description>
+     <Point>
+         <coordinates>-076.047433306,38.4291957</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Frederick County</name>
+     <description>18537350</description>
+     <Point>
+         <coordinates>-077.397626506,39.4704273</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Garrett County</name>
+     <description>22363466</description>
+     <Point>
+         <coordinates>-079.269416306,39.5298710</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Harford County</name>
+     <description>231943998</description>
+     <Point>
+         <coordinates>-076.299789406,39.5374292</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Howard County</name>
+     <description>6871682</description>
+     <Point>
+         <coordinates>-076.924405706,39.2522639</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kent County</name>
+     <description>353313295</description>
+     <Point>
+         <coordinates>-076.124200306,39.2391765</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Montgomery County</name>
+     <description>40645480</description>
+     <Point>
+         <coordinates>-077.203063306,39.1373815</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Prince George's County</name>
+     <description>41816219</description>
+     <Point>
+         <coordinates>-076.847272406,38.8258796</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Queen Anne's County</name>
+     <description>359449898</description>
+     <Point>
+         <coordinates>-076.082405306,39.0406929</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>St. Mary's County</name>
+     <description>1054309969</description>
+     <Point>
+         <coordinates>-076.534270506,38.2226660</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Somerset County</name>
+     <description>752725351</description>
+     <Point>
+         <coordinates>-075.853322806,38.0744501</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Talbot County</name>
+     <description>539409159</description>
+     <Point>
+         <coordinates>-076.179130406,38.7494273</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Washington County</name>
+     <description>24769174</description>
+     <Point>
+         <coordinates>-077.814670906,39.6036207</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Wicomico County</name>
+     <description>66808582</description>
+     <Point>
+         <coordinates>-075.632206406,38.3673888</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Worcester County</name>
+     <description>586834971</description>
+     <Point>
+         <coordinates>-075.309931506,38.2221332</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Baltimore city</name>
+     <description>28768302</description>
+     <Point>
+         <coordinates>-076.610515925,39.3002135</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Aberdeen city</name>
+     <description>19035</description>
+     <Point>
+         <coordinates>-076.170180025,39.5158557</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Aberdeen Proving Ground CDP</name>
+     <description>2077537</description>
+     <Point>
+         <coordinates>-076.134636257,39.4537184</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Accident town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.319922143,39.6257029</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Accokeek CDP</name>
+     <description>3546129</description>
+     <Point>
+         <coordinates>-077.000517557,38.6765590</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Adamstown CDP</name>
+     <description>2520</description>
+     <Point>
+         <coordinates>-077.467213657,39.3055208</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Adelphi CDP</name>
+     <description>6498</description>
+     <Point>
+         <coordinates>-076.966094957,38.9965942</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Algonquin CDP</name>
+     <description>5423537</description>
+     <Point>
+         <coordinates>-076.091558357,38.5898531</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Allen CDP</name>
+     <description>13773</description>
+     <Point>
+         <coordinates>-075.690105557,38.2861255</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Andrews AFB CDP</name>
+     <description>91637</description>
+     <Point>
+         <coordinates>-076.869157857,38.8098033</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Annapolis city</name>
+     <description>2386432</description>
+     <Point>
+         <coordinates>-076.506396225,38.9722814</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Annapolis Neck CDP</name>
+     <description>11542019</description>
+     <Point>
+         <coordinates>-076.498084457,38.9365619</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Antietam CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.736484057,39.4150818</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Aquasco CDP</name>
+     <description>6042832</description>
+     <Point>
+         <coordinates>-076.690491057,38.5895305</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Arbutus CDP</name>
+     <description>9291</description>
+     <Point>
+         <coordinates>-076.692132657,39.2426728</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Arden on the Severn CDP</name>
+     <description>540472</description>
+     <Point>
+         <coordinates>-076.596488257,39.0677103</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Arnold CDP</name>
+     <description>7083546</description>
+     <Point>
+         <coordinates>-076.496873757,39.0428796</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ashton-Sandy Spring CDP</name>
+     <description>260019</description>
+     <Point>
+         <coordinates>-076.999591457,39.1497466</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Aspen Hill CDP</name>
+     <description>212439</description>
+     <Point>
+         <coordinates>-077.081985257,39.0936349</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Baden CDP</name>
+     <description>2213423</description>
+     <Point>
+         <coordinates>-076.744833757,38.6698430</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bagtown CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.613885357,39.5829819</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bakersville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.757048257,39.5148291</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ballenger Creek CDP</name>
+     <description>39127</description>
+     <Point>
+         <coordinates>-077.420694357,39.3807910</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Baltimore city</name>
+     <description>28768302</description>
+     <Point>
+         <coordinates>-076.610515925,39.3002135</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Baltimore Highlands CDP</name>
+     <description>226093</description>
+     <Point>
+         <coordinates>-076.637402357,39.2359317</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Barclay town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.863880843,39.1436488</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Barnesville town</name>
+     <description>2267</description>
+     <Point>
+         <coordinates>-077.376097343,39.2239241</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Barrelville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.842453657,39.7026528</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Barton town</name>
+     <description>11361</description>
+     <Point>
+         <coordinates>-079.017038643,39.5324407</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bartonsville CDP</name>
+     <description>75824</description>
+     <Point>
+         <coordinates>-077.345663357,39.3871689</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Beaver Creek CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.647651857,39.5785628</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bel Air CDP</name>
+     <description>4134</description>
+     <Point>
+         <coordinates>-078.855224757,39.5813090</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bel Air town</name>
+     <description>24752</description>
+     <Point>
+         <coordinates>-076.346286043,39.5349486</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bel Air North CDP</name>
+     <description>196293</description>
+     <Point>
+         <coordinates>-076.372942457,39.5534037</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bel Air South CDP</name>
+     <description>187231</description>
+     <Point>
+         <coordinates>-076.321297557,39.5062245</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Beltsville CDP</name>
+     <description>71596</description>
+     <Point>
+         <coordinates>-076.920443057,39.0399035</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Benedict CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.679670257,38.5115289</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bensville CDP</name>
+     <description>2825</description>
+     <Point>
+         <coordinates>-077.004137657,38.6135498</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Berlin town</name>
+     <description>262</description>
+     <Point>
+         <coordinates>-075.215933443,38.3304501</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Berwyn Heights town</name>
+     <description>2328</description>
+     <Point>
+         <coordinates>-076.913451443,38.9928537</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bethesda CDP</name>
+     <description>195635</description>
+     <Point>
+         <coordinates>-077.118597757,38.9872801</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Betterton town</name>
+     <description>18585</description>
+     <Point>
+         <coordinates>-076.072577043,39.3670855</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bier CDP</name>
+     <description>10097</description>
+     <Point>
+         <coordinates>-078.868310157,39.5580004</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Big Pool CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.016148657,39.6250613</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Big Spring CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.939632457,39.6259018</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bishopville CDP</name>
+     <description>78473</description>
+     <Point>
+         <coordinates>-075.208997257,38.4385596</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bivalve CDP</name>
+     <description>95865</description>
+     <Point>
+         <coordinates>-075.877865257,38.3073134</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bladensburg town</name>
+     <description>23713</description>
+     <Point>
+         <coordinates>-076.925910443,38.9423683</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bloomington CDP</name>
+     <description>63933</description>
+     <Point>
+         <coordinates>-079.075609157,39.4797723</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Boonsboro town</name>
+     <description>12955</description>
+     <Point>
+         <coordinates>-077.658162843,39.5073499</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bowie city</name>
+     <description>206143</description>
+     <Point>
+         <coordinates>-076.741123725,38.9570718</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bowleys Quarters CDP</name>
+     <description>7651537</description>
+     <Point>
+         <coordinates>-076.382247657,39.3128146</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bowling Green CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.805056757,39.6271052</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bowmans Addition CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.754039057,39.6875719</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Braddock Heights CDP</name>
+     <description>27616</description>
+     <Point>
+         <coordinates>-077.503612157,39.4042574</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brandywine CDP</name>
+     <description>257993</description>
+     <Point>
+         <coordinates>-076.883009357,38.6925552</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Breathedsville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.724548157,39.5460096</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brentwood town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.956795243,38.9436650</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brock Hall CDP</name>
+     <description>347632</description>
+     <Point>
+         <coordinates>-076.760874457,38.8668381</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brookeville town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.058998443,39.1809227</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brooklyn Park CDP</name>
+     <description>182874</description>
+     <Point>
+         <coordinates>-076.616837057,39.2174203</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brookmont CDP</name>
+     <description>1773126</description>
+     <Point>
+         <coordinates>-077.128651557,38.9543084</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brookview town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.792962943,38.5740107</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Broomes Island CDP</name>
+     <description>22454</description>
+     <Point>
+         <coordinates>-076.548347357,38.4162307</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brownsville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.661552857,39.3781754</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Brunswick city</name>
+     <description>1131957</description>
+     <Point>
+         <coordinates>-077.625279825,39.3179898</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bryans Road CDP</name>
+     <description>4435</description>
+     <Point>
+         <coordinates>-077.091096357,38.6048656</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bryantown CDP</name>
+     <description>3748</description>
+     <Point>
+         <coordinates>-076.842181957,38.5488389</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Buckeystown CDP</name>
+     <description>21929</description>
+     <Point>
+         <coordinates>-077.431004257,39.3305190</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Burkittsville town</name>
+     <description>10427</description>
+     <Point>
+         <coordinates>-077.627767043,39.3933455</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Burtonsville CDP</name>
+     <description>977164</description>
+     <Point>
+         <coordinates>-076.936616257,39.1210383</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Butlertown CDP</name>
+     <description>18272</description>
+     <Point>
+         <coordinates>-076.099165557,39.2821937</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cabin John CDP</name>
+     <description>1117061</description>
+     <Point>
+         <coordinates>-077.163839157,38.9740976</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>California CDP</name>
+     <description>5720539</description>
+     <Point>
+         <coordinates>-076.492143257,38.2975994</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Calvert Beach CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.489670557,38.4728004</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Calverton CDP</name>
+     <description>52526</description>
+     <Point>
+         <coordinates>-076.950439757,39.0590278</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cambridge city</name>
+     <description>5953241</description>
+     <Point>
+         <coordinates>-076.075706625,38.5572535</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Camp Springs CDP</name>
+     <description>37232</description>
+     <Point>
+         <coordinates>-076.917901557,38.8048329</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cape St. Claire CDP</name>
+     <description>1356057</description>
+     <Point>
+         <coordinates>-076.445338957,39.0436339</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Capitol Heights town</name>
+     <description>1727</description>
+     <Point>
+         <coordinates>-076.907594143,38.8768776</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Carlos CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.956680357,39.6237428</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Carney CDP</name>
+     <description>6354</description>
+     <Point>
+         <coordinates>-076.522740857,39.4049379</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Catonsville CDP</name>
+     <description>207704</description>
+     <Point>
+         <coordinates>-076.741694257,39.2644559</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cavetown CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.593206857,39.6426517</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cearfoss CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.776339557,39.6991326</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cecilton town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.867847443,39.4047932</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cedarville CDP</name>
+     <description>300155</description>
+     <Point>
+         <coordinates>-076.822009657,38.6569122</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Centreville town</name>
+     <description>7956</description>
+     <Point>
+         <coordinates>-076.064218043,39.0425371</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chance CDP</name>
+     <description>2365119</description>
+     <Point>
+         <coordinates>-075.938788157,38.1780438</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Charlestown town</name>
+     <description>834209</description>
+     <Point>
+         <coordinates>-075.979779743,39.5775463</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Charlotte Hall CDP</name>
+     <description>23943</description>
+     <Point>
+         <coordinates>-076.782689657,38.4681967</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Charlton CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.894363657,39.6344010</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chesapeake Beach town</name>
+     <description>218225</description>
+     <Point>
+         <coordinates>-076.554409243,38.6894594</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chesapeake City town</name>
+     <description>479623</description>
+     <Point>
+         <coordinates>-075.812234343,39.5276148</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chesapeake Ranch Estates CDP</name>
+     <description>502270</description>
+     <Point>
+         <coordinates>-076.417263657,38.3576379</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chester CDP</name>
+     <description>4424608</description>
+     <Point>
+         <coordinates>-076.286581357,38.9620752</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chestertown town</name>
+     <description>795740</description>
+     <Point>
+         <coordinates>-076.070599843,39.2204992</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cheverly town</name>
+     <description>1723</description>
+     <Point>
+         <coordinates>-076.913467843,38.9259314</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chevy Chase town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.083155543,38.9818981</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chevy Chase CDP</name>
+     <description>15123</description>
+     <Point>
+         <coordinates>-077.074926257,38.9925369</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chevy Chase Section Five village</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.073942247,38.9840318</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chevy Chase Section Three village</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.074168247,38.9793163</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chevy Chase View town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.080983843,39.0192704</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chevy Chase Village town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.079339343,38.9697799</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chewsville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.631235357,39.6484142</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Chillum CDP</name>
+     <description>84305</description>
+     <Point>
+         <coordinates>-076.978885457,38.9666666</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Choptank CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.949398257,38.6822816</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Church Creek town</name>
+     <description>909</description>
+     <Point>
+         <coordinates>-076.154033843,38.5050246</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Church Hill town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.980704543,39.1450148</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Clarksburg CDP</name>
+     <description>38784</description>
+     <Point>
+         <coordinates>-077.263348157,39.2358726</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Clarysville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.888947157,39.6420258</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Clear Spring town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.930779343,39.6561236</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Clinton CDP</name>
+     <description>199292</description>
+     <Point>
+         <coordinates>-076.905165257,38.7502335</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cloverly CDP</name>
+     <description>94273</description>
+     <Point>
+         <coordinates>-076.994082357,39.1040315</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cobb Island CDP</name>
+     <description>808196</description>
+     <Point>
+         <coordinates>-076.850416357,38.2642245</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cockeysville CDP</name>
+     <description>362033</description>
+     <Point>
+         <coordinates>-076.630476057,39.4779941</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Colesville CDP</name>
+     <description>30268</description>
+     <Point>
+         <coordinates>-077.000580057,39.0728403</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>College Park city</name>
+     <description>96070</description>
+     <Point>
+         <coordinates>-076.935995325,38.9946458</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Colmar Manor town</name>
+     <description>116620</description>
+     <Point>
+         <coordinates>-076.942745343,38.9300633</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Columbia CDP</name>
+     <description>667178</description>
+     <Point>
+         <coordinates>-076.859049857,39.2011460</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Coral Hills CDP</name>
+     <description>8753</description>
+     <Point>
+         <coordinates>-076.925096557,38.8707715</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cordova CDP</name>
+     <description>1342</description>
+     <Point>
+         <coordinates>-076.001002457,38.8605071</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Corriganville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.796938757,39.6945344</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cottage City town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.949876743,38.9380446</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Crellin CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.468471257,39.3886310</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cresaptown CDP</name>
+     <description>60602</description>
+     <Point>
+         <coordinates>-078.852358157,39.5907220</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Crisfield city</name>
+     <description>3717282</description>
+     <Point>
+         <coordinates>-075.858269025,37.9749075</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Crofton CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.680013657,39.0144335</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Croom CDP</name>
+     <description>3149246</description>
+     <Point>
+         <coordinates>-076.755163857,38.7398255</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Crownsville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.590365457,39.0224680</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cumberland city</name>
+     <description>187409</description>
+     <Point>
+         <coordinates>-078.757948325,39.6517390</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Damascus CDP</name>
+     <description>48530</description>
+     <Point>
+         <coordinates>-077.196747657,39.2709709</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Dames Quarter CDP</name>
+     <description>16478159</description>
+     <Point>
+         <coordinates>-075.890023857,38.1729200</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Danville CDP</name>
+     <description>1021</description>
+     <Point>
+         <coordinates>-078.917583857,39.5101184</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Dargan CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.734045457,39.3766761</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Darlington CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.203548457,39.6424823</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Darnestown CDP</name>
+     <description>3388931</description>
+     <Point>
+         <coordinates>-077.302374557,39.0966333</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Dawson CDP</name>
+     <description>7791</description>
+     <Point>
+         <coordinates>-078.948627157,39.4758157</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Deale CDP</name>
+     <description>1694132</description>
+     <Point>
+         <coordinates>-076.543833457,38.7870411</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Deal Island CDP</name>
+     <description>6053989</description>
+     <Point>
+         <coordinates>-075.939939757,38.1527590</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Deer Park town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.325985743,39.4239611</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Delmar town</name>
+     <description>35035</description>
+     <Point>
+         <coordinates>-075.562288343,38.4419162</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Denton town</name>
+     <description>564286</description>
+     <Point>
+         <coordinates>-075.826915043,38.8774669</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Derwood CDP</name>
+     <description>5288</description>
+     <Point>
+         <coordinates>-077.150227957,39.1141156</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Detmold CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.991142757,39.5573651</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>District Heights city</name>
+     <description>88</description>
+     <Point>
+         <coordinates>-076.888111525,38.8592071</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Downsville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.801629957,39.5548204</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Drum Point CDP</name>
+     <description>447912</description>
+     <Point>
+         <coordinates>-076.432867057,38.3308145</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Dundalk CDP</name>
+     <description>11184881</description>
+     <Point>
+         <coordinates>-076.496531057,39.2668244</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Dunkirk CDP</name>
+     <description>1939408</description>
+     <Point>
+         <coordinates>-076.674501457,38.7186191</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Eagle Harbor town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.686845543,38.5665005</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Eakles Mill CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.685960357,39.4670672</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>East New Market town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.923119843,38.5970233</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Easton town</name>
+     <description>292496</description>
+     <Point>
+         <coordinates>-076.070305543,38.7728993</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>East Riverdale CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.911171057,38.9596638</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Eckhart Mines CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.894152157,39.6549536</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Eden CDP</name>
+     <description>136096</description>
+     <Point>
+         <coordinates>-075.654719657,38.2782304</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Edesville CDP</name>
+     <description>21092</description>
+     <Point>
+         <coordinates>-076.214113357,39.1536488</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Edgemere CDP</name>
+     <description>25208085</description>
+     <Point>
+         <coordinates>-076.456375057,39.2206713</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Edgemont CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.546947657,39.6766114</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Edgewater CDP</name>
+     <description>2168415</description>
+     <Point>
+         <coordinates>-076.553697957,38.9380253</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Edgewood CDP</name>
+     <description>358091</description>
+     <Point>
+         <coordinates>-076.296776357,39.4202681</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Edmonston town</name>
+     <description>29714</description>
+     <Point>
+         <coordinates>-076.932195543,38.9499649</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Eldersburg CDP</name>
+     <description>6566297</description>
+     <Point>
+         <coordinates>-076.954600957,39.4028607</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Eldorado town</name>
+     <description>10304</description>
+     <Point>
+         <coordinates>-075.790344843,38.5828998</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Elkridge CDP</name>
+     <description>26825</description>
+     <Point>
+         <coordinates>-076.741578357,39.1952583</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Elkton town</name>
+     <description>677714</description>
+     <Point>
+         <coordinates>-075.821686343,39.6057760</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ellerslie CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.778615457,39.7187127</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ellicott City CDP</name>
+     <description>317859</description>
+     <Point>
+         <coordinates>-076.833952257,39.2766912</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Elliott CDP</name>
+     <description>6805</description>
+     <Point>
+         <coordinates>-076.010717657,38.3081408</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Emmitsburg town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.321713043,39.7050824</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ernstville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.023936857,39.6303807</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Essex CDP</name>
+     <description>6825315</description>
+     <Point>
+         <coordinates>-076.447075857,39.3049690</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fairland CDP</name>
+     <description>45838</description>
+     <Point>
+         <coordinates>-076.951691057,39.0804780</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fairlee CDP</name>
+     <description>302308</description>
+     <Point>
+         <coordinates>-076.166296457,39.2258648</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fairmount CDP</name>
+     <description>12578594</description>
+     <Point>
+         <coordinates>-075.820564357,38.1097646</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fairmount Heights town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.915286543,38.9015117</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fairplay CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.746308857,39.5356705</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fairview CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.840627257,39.7110838</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fairwood CDP</name>
+     <description>9657</description>
+     <Point>
+         <coordinates>-076.773523157,38.9562384</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fallston CDP</name>
+     <description>72121</description>
+     <Point>
+         <coordinates>-076.438543157,39.5338099</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Federalsburg town</name>
+     <description>233296</description>
+     <Point>
+         <coordinates>-075.772464643,38.6922646</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ferndale CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.633013757,39.1869959</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Finzel CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.953201257,39.7030398</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fishing Creek CDP</name>
+     <description>825458</description>
+     <Point>
+         <coordinates>-076.224930757,38.3340714</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Flintstone CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.575940457,39.7034331</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Forest Glen CDP</name>
+     <description>5216</description>
+     <Point>
+         <coordinates>-077.044881057,39.0189337</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Forest Heights town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.999521443,38.8105485</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Forestville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.870807357,38.8516963</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fort Meade CDP</name>
+     <description>31874</description>
+     <Point>
+         <coordinates>-076.744746057,39.1100205</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fort Ritchie CDP</name>
+     <description>68393</description>
+     <Point>
+         <coordinates>-077.506425657,39.7034689</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fort Washington CDP</name>
+     <description>7194124</description>
+     <Point>
+         <coordinates>-077.010386757,38.7343272</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fountainhead-Orchard Hills CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.717297657,39.6878359</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Four Corners CDP</name>
+     <description>34435</description>
+     <Point>
+         <coordinates>-077.010209757,39.0233216</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Franklin CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.052163957,39.4994959</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Frederick city</name>
+     <description>532885</description>
+     <Point>
+         <coordinates>-077.412757925,39.4330863</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Frenchtown-Rumbly CDP</name>
+     <description>12005571</description>
+     <Point>
+         <coordinates>-075.853322857,38.0744501</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Friendly CDP</name>
+     <description>13186</description>
+     <Point>
+         <coordinates>-076.971185757,38.7637386</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Friendship CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.587802357,38.7358508</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Friendship Heights Village CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.089965157,38.9632943</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Friendsville town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.404464443,39.6629584</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Frostburg city</name>
+     <description>9512</description>
+     <Point>
+         <coordinates>-078.926322225,39.6519350</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fruitland city</name>
+     <description>17190</description>
+     <Point>
+         <coordinates>-075.625173925,38.3197816</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Fulton CDP</name>
+     <description>19824</description>
+     <Point>
+         <coordinates>-076.910964157,39.1526713</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Funkstown town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.707934443,39.6084238</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Gaithersburg city</name>
+     <description>370769</description>
+     <Point>
+         <coordinates>-077.232401025,39.1180221</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Galena town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.878655443,39.3425682</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Galestown town</name>
+     <description>53840</description>
+     <Point>
+         <coordinates>-075.715814443,38.5626062</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Galesville CDP</name>
+     <description>1008860</description>
+     <Point>
+         <coordinates>-076.554365757,38.8408174</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Gambrills CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.650988457,39.0928659</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Gapland CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.658287957,39.4019601</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Garrett Park town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.093446243,39.0360369</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Garretts Mill CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.688917057,39.3533355</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Garrison CDP</name>
+     <description>10181</description>
+     <Point>
+         <coordinates>-076.752072057,39.4025574</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Georgetown CDP</name>
+     <description>14573</description>
+     <Point>
+         <coordinates>-076.191771957,39.2215768</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Germantown CDP</name>
+     <description>288112</description>
+     <Point>
+         <coordinates>-077.263702757,39.1742199</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Gilmore CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.951184857,39.5829791</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Girdletree CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.400430457,38.0987400</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Glassmanor CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.983448457,38.8181131</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Glenarden city</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.857441625,38.9291326</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Glen Burnie CDP</name>
+     <description>1845757</description>
+     <Point>
+         <coordinates>-076.606995657,39.1562712</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Glen Echo town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.141092543,38.9681764</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Glenmont CDP</name>
+     <description>59104</description>
+     <Point>
+         <coordinates>-077.046569057,39.0704272</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Glenn Dale CDP</name>
+     <description>283716</description>
+     <Point>
+         <coordinates>-076.800323257,38.9843954</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Golden Beach CDP</name>
+     <description>2255550</description>
+     <Point>
+         <coordinates>-076.700689457,38.4897344</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Goldsboro town</name>
+     <description>27559</description>
+     <Point>
+         <coordinates>-075.782519643,39.0312600</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Gorman CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.352750157,39.2927024</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Grahamtown CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.922575257,39.6447061</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Grantsville town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.153027943,39.6969285</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Grasonville CDP</name>
+     <description>1971202</description>
+     <Point>
+         <coordinates>-076.197786657,38.9574608</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Greenbelt city</name>
+     <description>142764</description>
+     <Point>
+         <coordinates>-076.885396225,38.9946843</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Greensboro town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.808879243,38.9757092</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Greensburg CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.561550757,39.6807405</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hagerstown city</name>
+     <description>26533</description>
+     <Point>
+         <coordinates>-077.722690525,39.6401818</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Halfway CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.769957457,39.6162951</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hampstead town</name>
+     <description>54205</description>
+     <Point>
+         <coordinates>-076.856288943,39.6125707</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hampton CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.569775857,39.4221550</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hancock town</name>
+     <description>52416</description>
+     <Point>
+         <coordinates>-078.162989443,39.7046468</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Havre de Grace city</name>
+     <description>3597090</description>
+     <Point>
+         <coordinates>-076.105120825,39.5508344</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hebron town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.686653243,38.4243053</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Henderson town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.766343143,39.0748558</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Herald Harbor CDP</name>
+     <description>1986892</description>
+     <Point>
+         <coordinates>-076.574919957,39.0512649</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Highfield-Cascade CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.494566657,39.7135933</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Highland CDP</name>
+     <description>35269</description>
+     <Point>
+         <coordinates>-076.957920957,39.1865191</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Highland Beach town</name>
+     <description>23385</description>
+     <Point>
+         <coordinates>-076.466512243,38.9321134</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hillandale CDP</name>
+     <description>1699</description>
+     <Point>
+         <coordinates>-076.976020657,39.0253003</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hillcrest Heights CDP</name>
+     <description>8754</description>
+     <Point>
+         <coordinates>-076.970820157,38.8363897</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hillsboro town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.941490043,38.9168700</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hughesville CDP</name>
+     <description>199584</description>
+     <Point>
+         <coordinates>-076.772788757,38.5374198</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Huntingtown CDP</name>
+     <description>64772</description>
+     <Point>
+         <coordinates>-076.621540557,38.6123497</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hurlock town</name>
+     <description>580530</description>
+     <Point>
+         <coordinates>-075.867461843,38.6257387</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hutton CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.479989457,39.4145591</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hyattsville city</name>
+     <description>68936</description>
+     <Point>
+         <coordinates>-076.952295425,38.9604683</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ilchester CDP</name>
+     <description>160500</description>
+     <Point>
+         <coordinates>-076.761946757,39.2161852</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Indian Head town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.155668243,38.5986144</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Indian Springs CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.007401757,39.6456340</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Jarrettsville CDP</name>
+     <description>65227</description>
+     <Point>
+         <coordinates>-076.472410057,39.6007476</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Jefferson CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.542587557,39.3673905</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Jennings CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.183494457,39.6486532</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Jessup CDP</name>
+     <description>13098</description>
+     <Point>
+         <coordinates>-076.772306357,39.1454096</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Jesterville CDP</name>
+     <description>606249</description>
+     <Point>
+         <coordinates>-075.889929257,38.2904793</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Joppatowne CDP</name>
+     <description>1703948</description>
+     <Point>
+         <coordinates>-076.350429157,39.4153267</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Jugtown CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.594299957,39.6142775</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Keedysville town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.699007543,39.4864037</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kemp Mill CDP</name>
+     <description>65460</description>
+     <Point>
+         <coordinates>-077.018034057,39.0399285</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kemps Mill CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.813896157,39.6268810</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kennedyville CDP</name>
+     <description>16851</description>
+     <Point>
+         <coordinates>-075.995020857,39.3059004</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kensington town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.073728343,39.0264763</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kent Narrows CDP</name>
+     <description>5787745</description>
+     <Point>
+         <coordinates>-076.232892657,38.9708614</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kettering CDP</name>
+     <description>62932</description>
+     <Point>
+         <coordinates>-076.790301857,38.8896555</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kingstown CDP</name>
+     <description>809218</description>
+     <Point>
+         <coordinates>-076.043910557,39.2076254</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kingsville CDP</name>
+     <description>174724</description>
+     <Point>
+         <coordinates>-076.430345157,39.4519072</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Kitzmiller town</name>
+     <description>69145</description>
+     <Point>
+         <coordinates>-079.183284443,39.3891588</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Klondike CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.963287757,39.6100810</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Konterra CDP</name>
+     <description>173608</description>
+     <Point>
+         <coordinates>-076.898559857,39.0701792</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lake Arbor CDP</name>
+     <description>156289</description>
+     <Point>
+         <coordinates>-076.832695957,38.9075687</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lake Shore CDP</name>
+     <description>10817005</description>
+     <Point>
+         <coordinates>-076.494787457,39.0977211</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Landover CDP</name>
+     <description>13340</description>
+     <Point>
+         <coordinates>-076.887604157,38.9243951</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Landover Hills town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.892211543,38.9428711</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Langley Park CDP</name>
+     <description>84</description>
+     <Point>
+         <coordinates>-076.980784557,38.9895700</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lanham CDP</name>
+     <description>49260</description>
+     <Point>
+         <coordinates>-076.839203857,38.9621502</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lansdowne CDP</name>
+     <description>329902</description>
+     <Point>
+         <coordinates>-076.664633257,39.2355849</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>La Plata town</name>
+     <description>129015</description>
+     <Point>
+         <coordinates>-076.969879843,38.5433625</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Largo CDP</name>
+     <description>1371</description>
+     <Point>
+         <coordinates>-076.829265857,38.8803498</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Laurel city</name>
+     <description>65235</description>
+     <Point>
+         <coordinates>-076.862267925,39.0957581</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>La Vale CDP</name>
+     <description>379</description>
+     <Point>
+         <coordinates>-078.816838457,39.6508586</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Layhill CDP</name>
+     <description>21405</description>
+     <Point>
+         <coordinates>-077.039974957,39.0888894</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Laytonsville town</name>
+     <description>10510</description>
+     <Point>
+         <coordinates>-077.135056143,39.2080653</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Leisure World CDP</name>
+     <description>21767</description>
+     <Point>
+         <coordinates>-077.068939857,39.1040790</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Leitersburg CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.620621657,39.6927696</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Leonardtown town</name>
+     <description>171771</description>
+     <Point>
+         <coordinates>-076.641372643,38.3017784</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lexington Park CDP</name>
+     <description>27344</description>
+     <Point>
+         <coordinates>-076.439346157,38.2558217</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Libertytown CDP</name>
+     <description>14617</description>
+     <Point>
+         <coordinates>-077.257263657,39.4892828</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Linganore CDP</name>
+     <description>644584</description>
+     <Point>
+         <coordinates>-077.303165057,39.4084368</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Linthicum CDP</name>
+     <description>115916</description>
+     <Point>
+         <coordinates>-076.664605357,39.2079427</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Little Orleans CDP</name>
+     <description>10089</description>
+     <Point>
+         <coordinates>-078.395567357,39.6308759</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lochearn CDP</name>
+     <description>78216</description>
+     <Point>
+         <coordinates>-076.727165557,39.3478833</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Loch Lynn Heights town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.372670243,39.3918323</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lonaconing town</name>
+     <description>5898</description>
+     <Point>
+         <coordinates>-078.977152943,39.5667315</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Long Beach CDP</name>
+     <description>52907</description>
+     <Point>
+         <coordinates>-076.471587457,38.4562484</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Luke town</name>
+     <description>103293</description>
+     <Point>
+         <coordinates>-079.058973443,39.4788428</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lusby CDP</name>
+     <description>429673</description>
+     <Point>
+         <coordinates>-076.437955057,38.3638836</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lutherville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.617670557,39.4239692</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>McCoole CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.973088357,39.4533567</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Madison CDP</name>
+     <description>105629</description>
+     <Point>
+         <coordinates>-076.204222057,38.5089283</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Manchester town</name>
+     <description>13124</description>
+     <Point>
+         <coordinates>-076.888402143,39.6535556</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mapleville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.646244057,39.5357021</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mardela Springs town</name>
+     <description>12254</description>
+     <Point>
+         <coordinates>-075.755445143,38.4574749</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Marlboro Meadows CDP</name>
+     <description>214163</description>
+     <Point>
+         <coordinates>-076.710707357,38.8514085</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Marlboro Village CDP</name>
+     <description>110293</description>
+     <Point>
+         <coordinates>-076.769646057,38.8305382</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Marlow Heights CDP</name>
+     <description>5547</description>
+     <Point>
+         <coordinates>-076.944295457,38.8211183</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Marlton CDP</name>
+     <description>38181</description>
+     <Point>
+         <coordinates>-076.786539257,38.7610914</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Martin's Additions village</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.069234547,38.9795517</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Marydel town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.747896543,39.1130397</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maryland City CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.805112557,39.1015658</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Maugansville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.747143457,39.6936901</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mayo CDP</name>
+     <description>9896865</description>
+     <Point>
+         <coordinates>-076.513220857,38.9041781</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mays Chapel CDP</name>
+     <description>9012</description>
+     <Point>
+         <coordinates>-076.649780557,39.4330240</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mechanicsville CDP</name>
+     <description>15796</description>
+     <Point>
+         <coordinates>-076.745065957,38.4303985</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Melwood CDP</name>
+     <description>13198</description>
+     <Point>
+         <coordinates>-076.841624157,38.8018934</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mercersville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.765825057,39.4992098</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Middleburg CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.723876257,39.7176664</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Middle River CDP</name>
+     <description>1893209</description>
+     <Point>
+         <coordinates>-076.431666457,39.3334300</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Middletown town</name>
+     <description>10035</description>
+     <Point>
+         <coordinates>-077.535521843,39.4402529</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Midland town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.948065543,39.5893553</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Midlothian CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.952338957,39.6316518</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Milford Mill CDP</name>
+     <description>28899</description>
+     <Point>
+         <coordinates>-076.769012757,39.3473376</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Millington town</name>
+     <description>61785</description>
+     <Point>
+         <coordinates>-075.839963643,39.2582195</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mitchellville CDP</name>
+     <description>54959</description>
+     <Point>
+         <coordinates>-076.808249457,38.9364317</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Monrovia CDP</name>
+     <description>2656</description>
+     <Point>
+         <coordinates>-077.274890657,39.3594620</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Montgomery Village CDP</name>
+     <description>167273</description>
+     <Point>
+         <coordinates>-077.207136157,39.1874145</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Morningside town</name>
+     <description>1987</description>
+     <Point>
+         <coordinates>-076.889204543,38.8304895</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Moscow CDP</name>
+     <description>11827</description>
+     <Point>
+         <coordinates>-079.005601057,39.5450246</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mount Aetna CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.612768057,39.5988798</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mountain Lake Park town</name>
+     <description>182606</description>
+     <Point>
+         <coordinates>-079.380975543,39.4000265</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mount Airy town</name>
+     <description>30595</description>
+     <Point>
+         <coordinates>-077.153454843,39.3744196</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mount Briar CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.687346457,39.4425713</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mount Lena CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.621891357,39.5540290</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mount Rainier city</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.964442225,38.9425676</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mount Savage CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.876429057,39.6971674</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Mount Vernon CDP</name>
+     <description>6790430</description>
+     <Point>
+         <coordinates>-075.785306757,38.2395540</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Myersville town</name>
+     <description>2408</description>
+     <Point>
+         <coordinates>-077.571409043,39.5102620</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Nanticoke CDP</name>
+     <description>20656</description>
+     <Point>
+         <coordinates>-075.886974157,38.2654888</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Nanticoke Acres CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.905841757,38.2578470</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>National CDP</name>
+     <description>4748</description>
+     <Point>
+         <coordinates>-078.940495657,39.6118056</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>National Harbor CDP</name>
+     <description>1040005</description>
+     <Point>
+         <coordinates>-077.009965057,38.7878292</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Naval Academy CDP</name>
+     <description>824698</description>
+     <Point>
+         <coordinates>-076.481581757,38.9826805</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Newark CDP</name>
+     <description>42614</description>
+     <Point>
+         <coordinates>-075.288794957,38.2681148</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>New Carrollton city</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.876900325,38.9662551</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>New Market town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.272723143,39.3870847</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>New Windsor town</name>
+     <description>23553</description>
+     <Point>
+         <coordinates>-077.100714643,39.5438584</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Nikep CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.997729957,39.5515684</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>North Beach town</name>
+     <description>36636</description>
+     <Point>
+         <coordinates>-076.534500043,38.7077359</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>North Bethesda CDP</name>
+     <description>38292</description>
+     <Point>
+         <coordinates>-077.120249457,39.0367334</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>North Brentwood town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.950780943,38.9449213</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>North Chevy Chase village</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.074323447,39.0021917</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>North East town</name>
+     <description>118514</description>
+     <Point>
+         <coordinates>-075.939484843,39.6103608</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>North Kensington CDP</name>
+     <description>28453</description>
+     <Point>
+         <coordinates>-077.071562257,39.0391961</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>North Laurel CDP</name>
+     <description>107938</description>
+     <Point>
+         <coordinates>-076.838039857,39.1373062</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>North Potomac CDP</name>
+     <description>108846</description>
+     <Point>
+         <coordinates>-077.238503257,39.0967699</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Oakland town</name>
+     <description>22955</description>
+     <Point>
+         <coordinates>-079.407600543,39.4162333</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ocean CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.945021257,39.6015868</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ocean City town</name>
+     <description>82764176</description>
+     <Point>
+         <coordinates>-075.063484043,38.3858268</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ocean Pines CDP</name>
+     <description>7022133</description>
+     <Point>
+         <coordinates>-075.140569157,38.3823803</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Odenton CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.693806257,39.0661381</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Oldtown CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.615531357,39.5428315</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Olney CDP</name>
+     <description>125391</description>
+     <Point>
+         <coordinates>-077.071405857,39.1443317</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Overlea CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.517584657,39.3641642</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Owings CDP</name>
+     <description>32335</description>
+     <Point>
+         <coordinates>-076.603045257,38.7125726</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Owings Mills CDP</name>
+     <description>100231</description>
+     <Point>
+         <coordinates>-076.789457557,39.4105250</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Oxford town</name>
+     <description>746407</description>
+     <Point>
+         <coordinates>-076.171480943,38.6852692</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Oxon Hill CDP</name>
+     <description>34604</description>
+     <Point>
+         <coordinates>-076.969857557,38.7804064</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Paramount-Long Meadow CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.692112857,39.6797674</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Parkville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.551901057,39.3832078</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Parole CDP</name>
+     <description>4045209</description>
+     <Point>
+         <coordinates>-076.552800157,38.9877496</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Parsonsburg CDP</name>
+     <description>6538</description>
+     <Point>
+         <coordinates>-075.475133657,38.3927005</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pasadena CDP</name>
+     <description>3050936</description>
+     <Point>
+         <coordinates>-076.552883257,39.1552418</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pecktonville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.048184457,39.6659709</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Peppermill Village CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.887730657,38.8939623</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Perry Hall CDP</name>
+     <description>6028</description>
+     <Point>
+         <coordinates>-076.477793257,39.4067412</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Perryman CDP</name>
+     <description>155772</description>
+     <Point>
+         <coordinates>-076.208874857,39.4634544</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Perryville town</name>
+     <description>19700</description>
+     <Point>
+         <coordinates>-076.068053443,39.5721543</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pikesville CDP</name>
+     <description>69230</description>
+     <Point>
+         <coordinates>-076.700991657,39.3914317</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pinesburg CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.856121357,39.6268908</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Piney Point CDP</name>
+     <description>887427</description>
+     <Point>
+         <coordinates>-076.519940257,38.1506570</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pittsville town</name>
+     <description>1369</description>
+     <Point>
+         <coordinates>-075.407786443,38.3947147</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pleasant Grove CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.690316357,39.6802669</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pleasant Hills CDP</name>
+     <description>24608</description>
+     <Point>
+         <coordinates>-076.393911757,39.4861961</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pocomoke City city</name>
+     <description>652711</description>
+     <Point>
+         <coordinates>-075.553816225,38.0629272</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Point of Rocks CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.529162357,39.2780943</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pomfret CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.030372457,38.5699044</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pondsville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.591619057,39.6234100</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Poolesville town</name>
+     <description>47397</description>
+     <Point>
+         <coordinates>-077.410422343,39.1419457</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Port Deposit town</name>
+     <description>12591</description>
+     <Point>
+         <coordinates>-076.098074543,39.6105662</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Port Tobacco Village town</name>
+     <description>2463</description>
+     <Point>
+         <coordinates>-077.019511143,38.5107411</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Potomac CDP</name>
+     <description>3788184</description>
+     <Point>
+         <coordinates>-077.193578657,39.0133324</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Potomac Heights CDP</name>
+     <description>639905</description>
+     <Point>
+         <coordinates>-077.137683357,38.5991669</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Potomac Park CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.808251457,39.6125882</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Powellville CDP</name>
+     <description>32972</description>
+     <Point>
+         <coordinates>-075.378780757,38.3312843</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Preston town</name>
+     <description>9947</description>
+     <Point>
+         <coordinates>-075.907554043,38.7101325</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Prince Frederick CDP</name>
+     <description>10281</description>
+     <Point>
+         <coordinates>-076.587906057,38.5437910</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Princess Anne town</name>
+     <description>43311</description>
+     <Point>
+         <coordinates>-075.696431243,38.2050886</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Pylesville CDP</name>
+     <description>17303</description>
+     <Point>
+         <coordinates>-076.388426757,39.6879211</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Quantico CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.752586857,38.3767493</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Queen Anne CDP</name>
+     <description>55817</description>
+     <Point>
+         <coordinates>-076.706264057,38.9064521</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Queen Anne town</name>
+     <description>5995</description>
+     <Point>
+         <coordinates>-075.953522143,38.9190898</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Queenland CDP</name>
+     <description>33266</description>
+     <Point>
+         <coordinates>-076.791259557,38.8052450</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Queenstown town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.169387643,38.9861775</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Randallstown CDP</name>
+     <description>35463</description>
+     <Point>
+         <coordinates>-076.801947957,39.3718956</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rawlings CDP</name>
+     <description>6950</description>
+     <Point>
+         <coordinates>-078.885649257,39.5402722</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Redland CDP</name>
+     <description>454037</description>
+     <Point>
+         <coordinates>-077.145083257,39.1338400</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Reid CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.679313557,39.7125076</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Reisterstown CDP</name>
+     <description>11731</description>
+     <Point>
+         <coordinates>-076.816022857,39.4541116</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ridgely town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.880418843,38.9548580</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ringgold CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.568891557,39.7091691</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rising Sun town</name>
+     <description>19537</description>
+     <Point>
+         <coordinates>-076.060851543,39.7028419</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Riva CDP</name>
+     <description>1155221</description>
+     <Point>
+         <coordinates>-076.590026457,38.9452867</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Riverdale Park town</name>
+     <description>65257</description>
+     <Point>
+         <coordinates>-076.925549943,38.9632298</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Riverside CDP</name>
+     <description>29257</description>
+     <Point>
+         <coordinates>-076.239703657,39.4812466</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Riviera Beach CDP</name>
+     <description>1493343</description>
+     <Point>
+         <coordinates>-076.527418357,39.1645435</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Robinwood CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.663008057,39.6265183</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rock Hall town</name>
+     <description>553692</description>
+     <Point>
+         <coordinates>-076.241177243,39.1380890</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rock Point CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.842758857,38.2754865</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rockville city</name>
+     <description>158810</description>
+     <Point>
+         <coordinates>-077.155617825,39.0836473</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rohrersville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.665438457,39.4348912</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rosaryville CDP</name>
+     <description>43666</description>
+     <Point>
+         <coordinates>-076.828069057,38.7676866</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rosedale CDP</name>
+     <description>639539</description>
+     <Point>
+         <coordinates>-076.508376657,39.3271586</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rosemont village</name>
+     <description>2944</description>
+     <Point>
+         <coordinates>-077.622760247,39.3337285</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Rossville CDP</name>
+     <description>68428</description>
+     <Point>
+         <coordinates>-076.477898157,39.3565123</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Sabillasville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.456181257,39.6973741</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>St. George Island CDP</name>
+     <description>667273</description>
+     <Point>
+         <coordinates>-076.476964957,38.1155404</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>St. James CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.748244157,39.5738146</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>St. Leonard CDP</name>
+     <description>85388</description>
+     <Point>
+         <coordinates>-076.498575857,38.4673110</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>St. Michaels town</name>
+     <description>258901</description>
+     <Point>
+         <coordinates>-076.222674743,38.7884773</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Salisbury city</name>
+     <description>1205963</description>
+     <Point>
+         <coordinates>-075.588403125,38.3768673</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Sandy Hook CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.705144357,39.3285084</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>San Mar CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.640748257,39.5523516</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Savage CDP</name>
+     <description>13759</description>
+     <Point>
+         <coordinates>-076.821637357,39.1464630</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Scaggsville CDP</name>
+     <description>952905</description>
+     <Point>
+         <coordinates>-076.869185057,39.1361478</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Seabrook CDP</name>
+     <description>5483</description>
+     <Point>
+         <coordinates>-076.851114657,38.9821114</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Seat Pleasant city</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.901408325,38.8953123</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Secretary town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.947348543,38.6084629</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Severn CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.693973957,39.1356457</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Severna Park CDP</name>
+     <description>7391221</description>
+     <Point>
+         <coordinates>-076.565546957,39.0866594</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Shady Side CDP</name>
+     <description>3229742</description>
+     <Point>
+         <coordinates>-076.518247557,38.8276191</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Shaft CDP</name>
+     <description>26763</description>
+     <Point>
+         <coordinates>-078.938985657,39.6220036</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Sharpsburg town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.749447943,39.4575412</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Sharptown town</name>
+     <description>134323</description>
+     <Point>
+         <coordinates>-075.719221343,38.5383270</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Silver Hill CDP</name>
+     <description>1481</description>
+     <Point>
+         <coordinates>-076.938538857,38.8398871</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Silver Spring CDP</name>
+     <description>75907</description>
+     <Point>
+         <coordinates>-077.020790857,39.0024409</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Smith Island CDP</name>
+     <description>12504987</description>
+     <Point>
+         <coordinates>-076.028791157,37.9772201</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Smithsburg town</name>
+     <description>17612</description>
+     <Point>
+         <coordinates>-077.579920143,39.6548146</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Snow Hill town</name>
+     <description>287071</description>
+     <Point>
+         <coordinates>-075.396296843,38.1658889</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Solomons CDP</name>
+     <description>892478</description>
+     <Point>
+         <coordinates>-076.461900557,38.3390885</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Somerset town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.096336443,38.9665768</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>South Kensington CDP</name>
+     <description>94409</description>
+     <Point>
+         <coordinates>-077.066330457,39.0158562</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>South Laurel CDP</name>
+     <description>88305</description>
+     <Point>
+         <coordinates>-076.846205757,39.0614907</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Spencerville CDP</name>
+     <description>7772</description>
+     <Point>
+         <coordinates>-076.983527557,39.1200243</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Springdale CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.842270457,38.9383320</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Spring Gap CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.705332457,39.5653355</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Spring Ridge CDP</name>
+     <description>78827</description>
+     <Point>
+         <coordinates>-077.338106957,39.4049161</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Stevensville CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.318368057,38.9745530</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Stockton CDP</name>
+     <description>10563</description>
+     <Point>
+         <coordinates>-075.408409057,38.0653966</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Sudlersville town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.855521443,39.1840730</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Suitland CDP</name>
+     <description>2053</description>
+     <Point>
+         <coordinates>-076.922874357,38.8489135</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Summerfield CDP</name>
+     <description>28844</description>
+     <Point>
+         <coordinates>-076.868297557,38.9045379</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Swanton CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-079.232694257,39.4598642</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Sykesville town</name>
+     <description>9742</description>
+     <Point>
+         <coordinates>-076.971764043,39.3721339</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Takoma Park city</name>
+     <description>13926</description>
+     <Point>
+         <coordinates>-077.002314625,38.9803024</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Tall Timbers CDP</name>
+     <description>382934</description>
+     <Point>
+         <coordinates>-076.539284157,38.1697835</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Taneytown city</name>
+     <description>18233</description>
+     <Point>
+         <coordinates>-077.168810725,39.6562980</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Taylors Island CDP</name>
+     <description>51001</description>
+     <Point>
+         <coordinates>-076.316009457,38.4711354</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Temple Hills CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.949476857,38.8105488</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Templeville town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.767271843,39.1355532</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Thurmont town</name>
+     <description>14950</description>
+     <Point>
+         <coordinates>-077.406786643,39.6199280</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Tilghman Island CDP</name>
+     <description>361539</description>
+     <Point>
+         <coordinates>-076.336281657,38.7031886</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Tilghmanton CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.743683757,39.5286012</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Timonium CDP</name>
+     <description>7232</description>
+     <Point>
+         <coordinates>-076.607589757,39.4440843</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Tolchester CDP</name>
+     <description>14899</description>
+     <Point>
+         <coordinates>-076.230444557,39.2182594</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Towson CDP</name>
+     <description>353243</description>
+     <Point>
+         <coordinates>-076.621509357,39.3924224</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Trappe town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.052541743,38.6627223</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Travilah CDP</name>
+     <description>3775899</description>
+     <Point>
+         <coordinates>-077.256028857,39.0469245</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Trego-Rohrersville Station CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.674852657,39.4291067</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Tyaskin CDP</name>
+     <description>2092</description>
+     <Point>
+         <coordinates>-075.872635357,38.3204077</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Union Bridge town</name>
+     <description>17493</description>
+     <Point>
+         <coordinates>-077.171578543,39.5720446</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>University Park town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-076.944673043,38.9720114</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Upper Marlboro town</name>
+     <description>63906</description>
+     <Point>
+         <coordinates>-076.754884443,38.8174581</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Urbana CDP</name>
+     <description>162969</description>
+     <Point>
+         <coordinates>-077.344526857,39.3172120</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Vale Summit CDP</name>
+     <description>12751</description>
+     <Point>
+         <coordinates>-078.909381457,39.6172442</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Vienna town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.826803043,38.4849244</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Waldorf CDP</name>
+     <description>681559</description>
+     <Point>
+         <coordinates>-076.919778457,38.6091863</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Walker Mill CDP</name>
+     <description>4954</description>
+     <Point>
+         <coordinates>-076.884094057,38.8809006</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Walkersville town</name>
+     <description>16121</description>
+     <Point>
+         <coordinates>-077.352753243,39.4845918</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Washington Grove town</name>
+     <description>4227</description>
+     <Point>
+         <coordinates>-077.174533143,39.1406994</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Waterview CDP</name>
+     <description>13226</description>
+     <Point>
+         <coordinates>-075.900009057,38.2487356</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>West Denton CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.838935157,38.8895010</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Westernport town</name>
+     <description>62012</description>
+     <Point>
+         <coordinates>-079.041590643,39.4873286</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>West Laurel CDP</name>
+     <description>263974</description>
+     <Point>
+         <coordinates>-076.892961457,39.1157638</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Westminster city</name>
+     <description>34092</description>
+     <Point>
+         <coordinates>-077.008458625,39.5796248</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>West Ocean City CDP</name>
+     <description>7344006</description>
+     <Point>
+         <coordinates>-075.111242857,38.3473215</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Westphalia CDP</name>
+     <description>69122</description>
+     <Point>
+         <coordinates>-076.824048757,38.8401479</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>West Pocomoke CDP</name>
+     <description>546591</description>
+     <Point>
+         <coordinates>-075.580084257,38.0963804</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Whaleyville CDP</name>
+     <description>1938</description>
+     <Point>
+         <coordinates>-075.297537857,38.3870374</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Wheaton CDP</name>
+     <description>98099</description>
+     <Point>
+         <coordinates>-077.058208657,39.0494897</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Whitehaven CDP</name>
+     <description>5591</description>
+     <Point>
+         <coordinates>-075.794740257,38.2697608</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>White Marsh CDP</name>
+     <description>62255</description>
+     <Point>
+         <coordinates>-076.458192757,39.3815502</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>White Oak CDP</name>
+     <description>3348</description>
+     <Point>
+         <coordinates>-076.991092857,39.0432578</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Willards town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.349298743,38.3921786</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Williamsport town</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.817669943,39.5974599</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Williston CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-075.850861157,38.8309961</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Wilson-Conococheague CDP</name>
+     <description>324224</description>
+     <Point>
+         <coordinates>-077.827072357,39.6512472</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Woodland CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.949805757,39.6081465</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Woodlawn CDP</name>
+     <description>82070</description>
+     <Point>
+         <coordinates>-076.747814257,39.3055222</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Woodlawn CDP</name>
+     <description>6299</description>
+     <Point>
+         <coordinates>-076.900261257,38.9503270</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Woodmore CDP</name>
+     <description>164704</description>
+     <Point>
+         <coordinates>-076.777933157,38.9234207</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Woodsboro town</name>
+     <description>7525</description>
+     <Point>
+         <coordinates>-077.309769743,39.5338023</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Worton CDP</name>
+     <description>60463</description>
+     <Point>
+         <coordinates>-076.091745557,39.2704903</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Yarrowsburg CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-077.684345857,39.3761719</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Zihlman CDP</name>
+     <description>0</description>
+     <Point>
+         <coordinates>-078.913133957,39.6740557</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Baltimore-Towson, MD Metro Area</name>
+     <description>1304173592</description>
+     <Point>
+         <coordinates>-076.6170253M1,39.3127154</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cambridge, MD Micro Area</name>
+     <description>1145393243</description>
+     <Point>
+         <coordinates>-075.9916105M2,38.5290556</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Cumberland, MD-WV Metro Area (part)</name>
+     <description>14954037</description>
+     <Point>
+         <coordinates>-078.7965575M1,39.6144171</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Easton, MD Micro Area</name>
+     <description>539409159</description>
+     <Point>
+         <coordinates>-076.1195728M2,38.7661335</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Hagerstown-Martinsburg, MD-WV Metro Area (part)</name>
+     <description>24769174</description>
+     <Point>
+         <coordinates>-077.7689840M1,39.6160150</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Lexington Park, MD Micro Area</name>
+     <description>1054309969</description>
+     <Point>
+         <coordinates>-076.5870921M2,38.2751615</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Ocean Pines, MD Micro Area</name>
+     <description>586834971</description>
+     <Point>
+         <coordinates>-075.2736918M2,38.2693893</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area (part)</name>
+     <description>185350813</description>
+     <Point>
+         <coordinates>-075.9510362M1,39.5935563</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Wilmington, DE-MD-NJ Metro Division (part)</name>
+     <description>185350813</description>
+     <Point>
+         <coordinates>-075.9510362M3,39.5935563</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Salisbury, MD Metro Area</name>
+     <description>819533933</description>
+     <Point>
+         <coordinates>-075.6610422M1,38.2884796</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area (part)</name>
+     <description>922384263</description>
+     <Point>
+         <coordinates>-077.0229279M1,38.9822031</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Bethesda-Rockville-Frederick, MD Metro Division</name>
+     <description>59182830</description>
+     <Point>
+         <coordinates>-077.2543045M3,39.2404664</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Division (part)</name>
+     <description>863201433</description>
+     <Point>
+         <coordinates>-076.8568657M3,38.7613034</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Philadelphia-Camden-Vineland, PA-NJ-DE-MD CSA (part)</name>
+     <description>185350813</description>
+     <Point>
+         <coordinates>-075.9510362M0,39.5935563</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Salisbury-Ocean Pines, MD CSA</name>
+     <description>1406368904</description>
+     <Point>
+         <coordinates>-075.5173418M0,38.2813155</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Washington-Baltimore-Northern Virginia, DC-MD-VA-WV CSA (part)</name>
+     <description>3280867824</description>
+     <Point>
+         <coordinates>-076.7935823M0,39.1350321</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Congressional District 1</name>
+     <description>225373702</description>
+     <Point>
+         <coordinates>-075.8927281C2,38.7655131</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Congressional District 2</name>
+     <description>55681728</description>
+     <Point>
+         <coordinates>-076.4585057C2,39.3625399</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Congressional District 3</name>
+     <description>2860635</description>
+     <Point>
+         <coordinates>-076.5713591C2,39.0509063</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Congressional District 4</name>
+     <description>9423981</description>
+     <Point>
+         <coordinates>-077.0021970C2,39.0302900</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Congressional District 5</name>
+     <description>35000018</description>
+     <Point>
+         <coordinates>-076.7635893C2,38.5639228</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Congressional District 6</name>
+     <description>111807538</description>
+     <Point>
+         <coordinates>-077.8645081C2,39.5581217</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Congressional District 7</name>
+     <description>7965326</description>
+     <Point>
+         <coordinates>-076.8946024C2,39.2771813</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>Congressional District 8</name>
+     <description>32944972</description>
+     <Point>
+         <coordinates>-077.2460239C2,39.0981761</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 1</name>
+     <description>47901607</description>
+     <Point>
+         <coordinates>-078.9179720LU,39.5804702</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 2</name>
+     <description>9708906</description>
+     <Point>
+         <coordinates>-077.6991091LU,39.5821862</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 3</name>
+     <description>17209457</description>
+     <Point>
+         <coordinates>-077.4739381LU,39.3562284</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 4</name>
+     <description>7022928</description>
+     <Point>
+         <coordinates>-077.2945745LU,39.5532691</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 5</name>
+     <description>10215151</description>
+     <Point>
+         <coordinates>-076.8166500LU,39.6006060</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 6</name>
+     <description>950181</description>
+     <Point>
+         <coordinates>-076.4644996LU,39.2688796</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 7</name>
+     <description>8450618</description>
+     <Point>
+         <coordinates>-076.4496925LU,39.4382804</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 8</name>
+     <description>43199</description>
+     <Point>
+         <coordinates>-076.5027695LU,39.3834824</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 9</name>
+     <description>10592898</description>
+     <Point>
+         <coordinates>-076.9651316LU,39.3323295</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 10</name>
+     <description>314643</description>
+     <Point>
+         <coordinates>-076.7767027LU,39.3349409</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 11</name>
+     <description>5300064</description>
+     <Point>
+         <coordinates>-076.7831960LU,39.4233920</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 12</name>
+     <description>1159836</description>
+     <Point>
+         <coordinates>-076.7480592LU,39.2324896</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 13</name>
+     <description>4660729</description>
+     <Point>
+         <coordinates>-076.8824964LU,39.1771818</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 14</name>
+     <description>4532044</description>
+     <Point>
+         <coordinates>-077.0844337LU,39.2012227</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 15</name>
+     <description>28019862</description>
+     <Point>
+         <coordinates>-077.3378962LU,39.1493075</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 16</name>
+     <description>5028223</description>
+     <Point>
+         <coordinates>-077.1477827LU,38.9914323</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 17</name>
+     <description>674922</description>
+     <Point>
+         <coordinates>-077.1805916LU,39.1051253</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 18</name>
+     <description>248381</description>
+     <Point>
+         <coordinates>-077.0643723LU,39.0238099</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 19</name>
+     <description>1080413</description>
+     <Point>
+         <coordinates>-077.0944075LU,39.1170384</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 20</name>
+     <description>144340</description>
+     <Point>
+         <coordinates>-076.9934153LU,39.0285814</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 21</name>
+     <description>884370</description>
+     <Point>
+         <coordinates>-076.8132356LU,39.0799398</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 22</name>
+     <description>494760</description>
+     <Point>
+         <coordinates>-076.8864885LU,38.9845059</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 23</name>
+     <description>2311042</description>
+     <Point>
+         <coordinates>-076.7582014LU,38.9423691</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 24</name>
+     <description>197460</description>
+     <Point>
+         <coordinates>-076.8774226LU,38.9020675</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 25</name>
+     <description>494992</description>
+     <Point>
+         <coordinates>-076.8517233LU,38.8373177</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 26</name>
+     <description>396760</description>
+     <Point>
+         <coordinates>-076.9800136LU,38.7771595</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 27</name>
+     <description>9054621</description>
+     <Point>
+         <coordinates>-076.7265247LU,38.6687498</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 28</name>
+     <description>6285206</description>
+     <Point>
+         <coordinates>-076.9930244LU,38.5086192</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 29</name>
+     <description>20651034</description>
+     <Point>
+         <coordinates>-076.5951444LU,38.3244227</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 30</name>
+     <description>1383510</description>
+     <Point>
+         <coordinates>-076.5166300LU,38.9435352</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 31</name>
+     <description>1465931</description>
+     <Point>
+         <coordinates>-076.5378377LU,39.1441265</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 32</name>
+     <description>261144</description>
+     <Point>
+         <coordinates>-076.6862948LU,39.1483087</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 33</name>
+     <description>2481572</description>
+     <Point>
+         <coordinates>-076.6265878LU,38.9382997</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 34</name>
+     <description>51162536</description>
+     <Point>
+         <coordinates>-076.1024050LU,39.5633853</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 35</name>
+     <description>15128526</description>
+     <Point>
+         <coordinates>-076.3550899LU,39.6100358</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 36</name>
+     <description>89144409</description>
+     <Point>
+         <coordinates>-075.9726972LU,39.1934544</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 37</name>
+     <description>203041075</description>
+     <Point>
+         <coordinates>-075.9669939LU,38.5839101</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 38</name>
+     <description>40404513</description>
+     <Point>
+         <coordinates>-075.5088706LU,38.2130427</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 39</name>
+     <description>917295</description>
+     <Point>
+         <coordinates>-077.1827342LU,39.1752650</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 40</name>
+     <description>359804</description>
+     <Point>
+         <coordinates>-076.6448717LU,39.3225962</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 41</name>
+     <description>53203</description>
+     <Point>
+         <coordinates>-076.6801619LU,39.3369874</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 42</name>
+     <description>3158614</description>
+     <Point>
+         <coordinates>-076.6105048LU,39.4117792</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 43</name>
+     <description>319404</description>
+     <Point>
+         <coordinates>-076.5930094LU,39.3501219</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 44</name>
+     <description>91671</description>
+     <Point>
+         <coordinates>-076.6528708LU,39.2839474</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 45</name>
+     <description>7780</description>
+     <Point>
+         <coordinates>-076.5598208LU,39.3291655</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 46</name>
+     <description>337009</description>
+     <Point>
+         <coordinates>-076.5802543LU,39.2632021</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate District 47</name>
+     <description>385162</description>
+     <Point>
+         <coordinates>-076.9602890LU,38.9375394</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Anne Arundel County)</name>
+     <description>442120524</description>
+     <Point>
+         <coordinates>-076.458818400,38.9653623</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Baltimore County)</name>
+     <description>190446277</description>
+     <Point>
+         <coordinates>-076.388409300,39.2506155</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Calvert County)</name>
+     <description>334383419</description>
+     <Point>
+         <coordinates>-076.467413600,38.5025630</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Cecil County)</name>
+     <description>176477294</description>
+     <Point>
+         <coordinates>-075.995536500,39.4952781</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Charles County)</name>
+     <description>473406213</description>
+     <Point>
+         <coordinates>-077.072841700,38.3884651</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Dorchester County)</name>
+     <description>1058298427</description>
+     <Point>
+         <coordinates>-076.190022700,38.3393369</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Harford County)</name>
+     <description>167845088</description>
+     <Point>
+         <coordinates>-076.318436900,39.2899305</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Kent County)</name>
+     <description>311155194</description>
+     <Point>
+         <coordinates>-076.286715100,39.1473321</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Prince George's County)</name>
+     <description>33408106</description>
+     <Point>
+         <coordinates>-077.034620100,38.7027103</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Queen Anne's County)</name>
+     <description>323138510</description>
+     <Point>
+         <coordinates>-076.294370300,38.9204175</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (St. Mary's County)</name>
+     <description>1035250668</description>
+     <Point>
+         <coordinates>-076.456092900,38.1357596</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Somerset County)</name>
+     <description>733923529</description>
+     <Point>
+         <coordinates>-075.982172100,38.0349032</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Talbot County)</name>
+     <description>462041207</description>
+     <Point>
+         <coordinates>-076.315436700,38.7093733</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Washington County)</name>
+     <description>96894</description>
+     <Point>
+         <coordinates>-077.799996200,39.4349015</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Wicomico County)</name>
+     <description>36835912</description>
+     <Point>
+         <coordinates>-075.916593300,38.2308999</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Worcester County)</name>
+     <description>569021087</description>
+     <Point>
+         <coordinates>-075.131415000,38.3603040</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Senate Districts not defined (Baltimore city)</name>
+     <description>27599431</description>
+     <Point>
+         <coordinates>-076.569308400,39.2440676</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 6</name>
+     <description>950181</description>
+     <Point>
+         <coordinates>-076.4644996L5,39.2688796</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 7</name>
+     <description>8450618</description>
+     <Point>
+         <coordinates>-076.4496925L5,39.4382804</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 8</name>
+     <description>43199</description>
+     <Point>
+         <coordinates>-076.5027695L5,39.3834824</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 10</name>
+     <description>314643</description>
+     <Point>
+         <coordinates>-076.7767027L5,39.3349409</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 11</name>
+     <description>5300064</description>
+     <Point>
+         <coordinates>-076.7831960L5,39.4233920</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 13</name>
+     <description>4660729</description>
+     <Point>
+         <coordinates>-076.8824964L5,39.1771818</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 14</name>
+     <description>4532044</description>
+     <Point>
+         <coordinates>-077.0844337L5,39.2012227</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 15</name>
+     <description>28019862</description>
+     <Point>
+         <coordinates>-077.3378962L5,39.1493075</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 16</name>
+     <description>5028223</description>
+     <Point>
+         <coordinates>-077.1477827L5,38.9914323</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 17</name>
+     <description>674922</description>
+     <Point>
+         <coordinates>-077.1805916L5,39.1051253</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 18</name>
+     <description>248381</description>
+     <Point>
+         <coordinates>-077.0643723L5,39.0238099</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 19</name>
+     <description>1080413</description>
+     <Point>
+         <coordinates>-077.0944075L5,39.1170384</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 1A</name>
+     <description>23328916</description>
+     <Point>
+         <coordinates>-079.2566796L6,39.5265881</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 1B</name>
+     <description>3088060</description>
+     <Point>
+         <coordinates>-078.8169178L6,39.6461332</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 1C</name>
+     <description>21484631</description>
+     <Point>
+         <coordinates>-078.3246998L6,39.6585094</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 20</name>
+     <description>144340</description>
+     <Point>
+         <coordinates>-076.9934153L5,39.0285814</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 21</name>
+     <description>884370</description>
+     <Point>
+         <coordinates>-076.8132356L5,39.0799398</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 22</name>
+     <description>494760</description>
+     <Point>
+         <coordinates>-076.8864885L5,38.9845059</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 24</name>
+     <description>197460</description>
+     <Point>
+         <coordinates>-076.8774226L5,38.9020675</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 25</name>
+     <description>494992</description>
+     <Point>
+         <coordinates>-076.8517233L5,38.8373177</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 26</name>
+     <description>396760</description>
+     <Point>
+         <coordinates>-076.9800136L5,38.7771595</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 28</name>
+     <description>6285206</description>
+     <Point>
+         <coordinates>-076.9930244L5,38.5086192</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 2A</name>
+     <description>1678432</description>
+     <Point>
+         <coordinates>-077.5646173L6,39.6829364</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 2B</name>
+     <description>8003941</description>
+     <Point>
+         <coordinates>-077.7121870L6,39.5250355</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 2C</name>
+     <description>26533</description>
+     <Point>
+         <coordinates>-077.7205659L6,39.6388599</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 30</name>
+     <description>1383510</description>
+     <Point>
+         <coordinates>-076.5166300L5,38.9435352</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 31</name>
+     <description>1465931</description>
+     <Point>
+         <coordinates>-076.5378377L5,39.1441265</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 32</name>
+     <description>261144</description>
+     <Point>
+         <coordinates>-076.6862948L5,39.1483087</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 36</name>
+     <description>89144409</description>
+     <Point>
+         <coordinates>-075.9726972L5,39.1934544</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 39</name>
+     <description>917295</description>
+     <Point>
+         <coordinates>-077.1827342L5,39.1752650</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 3A</name>
+     <description>1651144</description>
+     <Point>
+         <coordinates>-077.4230895L6,39.4383237</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 3B</name>
+     <description>15558313</description>
+     <Point>
+         <coordinates>-077.4882530L6,39.3391255</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 40</name>
+     <description>359804</description>
+     <Point>
+         <coordinates>-076.6448717L5,39.3225962</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 41</name>
+     <description>53203</description>
+     <Point>
+         <coordinates>-076.6801619L5,39.3369874</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 42</name>
+     <description>3158614</description>
+     <Point>
+         <coordinates>-076.6105048L5,39.4117792</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 43</name>
+     <description>319404</description>
+     <Point>
+         <coordinates>-076.5930094L5,39.3501219</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 44</name>
+     <description>91671</description>
+     <Point>
+         <coordinates>-076.6528708L5,39.2839474</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 45</name>
+     <description>7780</description>
+     <Point>
+         <coordinates>-076.5598208L5,39.3291655</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 46</name>
+     <description>337009</description>
+     <Point>
+         <coordinates>-076.5802543L5,39.2632021</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative District 47</name>
+     <description>385162</description>
+     <Point>
+         <coordinates>-076.9602890L5,38.9375394</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 4A</name>
+     <description>5688872</description>
+     <Point>
+         <coordinates>-077.3676309L6,39.5416447</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 4B</name>
+     <description>1334056</description>
+     <Point>
+         <coordinates>-077.1341702L6,39.5546497</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 5A</name>
+     <description>3105445</description>
+     <Point>
+         <coordinates>-076.9438016L6,39.6171396</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 5B</name>
+     <description>7109706</description>
+     <Point>
+         <coordinates>-076.6954176L6,39.5960106</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 9A</name>
+     <description>1824107</description>
+     <Point>
+         <coordinates>-076.9812525L6,39.2886724</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 9B</name>
+     <description>8768791</description>
+     <Point>
+         <coordinates>-076.9746741L6,39.4102690</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 12A</name>
+     <description>901973</description>
+     <Point>
+         <coordinates>-076.7239747L6,39.2423089</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 12B</name>
+     <description>257863</description>
+     <Point>
+         <coordinates>-076.8688637L6,39.2218927</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 23A</name>
+     <description>1528022</description>
+     <Point>
+         <coordinates>-076.7858353L6,38.9935550</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 23B</name>
+     <description>783020</description>
+     <Point>
+         <coordinates>-076.7290341L6,38.8913452</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 27A</name>
+     <description>6855280</description>
+     <Point>
+         <coordinates>-076.8114366L6,38.7043483</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 27B</name>
+     <description>2199341</description>
+     <Point>
+         <coordinates>-076.5772796L6,38.5932022</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 29A</name>
+     <description>5962810</description>
+     <Point>
+         <coordinates>-076.7137250L6,38.3983438</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 29B</name>
+     <description>11257057</description>
+     <Point>
+         <coordinates>-076.4883417L6,38.2115510</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 29C</name>
+     <description>3431167</description>
+     <Point>
+         <coordinates>-076.4873261L6,38.3838854</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 33A</name>
+     <description>188223</description>
+     <Point>
+         <coordinates>-076.6467927L6,39.0349939</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 33B</name>
+     <description>2293349</description>
+     <Point>
+         <coordinates>-076.6171410L6,38.8505160</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 34A</name>
+     <description>48645334</description>
+     <Point>
+         <coordinates>-076.2351888L6,39.3780643</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 34B</name>
+     <description>2517202</description>
+     <Point>
+         <coordinates>-076.0241633L6,39.6561406</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 35A</name>
+     <description>14958182</description>
+     <Point>
+         <coordinates>-076.3513759L6,39.6224197</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 35B</name>
+     <description>170344</description>
+     <Point>
+         <coordinates>-076.3034304L6,39.5089769</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 37A</name>
+     <description>10170928</description>
+     <Point>
+         <coordinates>-075.8229465L6,38.4977717</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 37B</name>
+     <description>192870147</description>
+     <Point>
+         <coordinates>-075.8313828L6,38.7948851</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 38A</name>
+     <description>22120707</description>
+     <Point>
+         <coordinates>-075.7239313L6,38.1391271</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State Legislative Subdistrict 38B</name>
+     <description>18283806</description>
+     <Point>
+         <coordinates>-075.3805294L6,38.2580551</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Anne Arundel County)</name>
+     <description>442120524</description>
+     <Point>
+         <coordinates>-076.458818400,38.9653623</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Baltimore County)</name>
+     <description>190446277</description>
+     <Point>
+         <coordinates>-076.388409300,39.2506155</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Calvert County)</name>
+     <description>334383419</description>
+     <Point>
+         <coordinates>-076.467413600,38.5025630</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Cecil County)</name>
+     <description>176477294</description>
+     <Point>
+         <coordinates>-075.995536500,39.4952781</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Charles County)</name>
+     <description>473406213</description>
+     <Point>
+         <coordinates>-077.072841700,38.3884651</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Dorchester County)</name>
+     <description>1058298427</description>
+     <Point>
+         <coordinates>-076.190022700,38.3393369</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Harford County)</name>
+     <description>167845088</description>
+     <Point>
+         <coordinates>-076.318436900,39.2899305</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Kent County)</name>
+     <description>311155194</description>
+     <Point>
+         <coordinates>-076.286715100,39.1473321</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Prince George's County)</name>
+     <description>33408106</description>
+     <Point>
+         <coordinates>-077.034620100,38.7027103</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Queen Anne's County)</name>
+     <description>323138510</description>
+     <Point>
+         <coordinates>-076.294370300,38.9204175</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (St. Mary's County)</name>
+     <description>1035250668</description>
+     <Point>
+         <coordinates>-076.456092900,38.1357596</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Somerset County)</name>
+     <description>733923529</description>
+     <Point>
+         <coordinates>-075.982172100,38.0349032</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Talbot County)</name>
+     <description>462041207</description>
+     <Point>
+         <coordinates>-076.315436700,38.7093733</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Washington County)</name>
+     <description>96894</description>
+     <Point>
+         <coordinates>-077.799996200,39.4349015</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Wicomico County)</name>
+     <description>36835912</description>
+     <Point>
+         <coordinates>-075.916593300,38.2308999</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Worcester County)</name>
+     <description>569021087</description>
+     <Point>
+         <coordinates>-075.131415000,38.3603040</coordinates>
+     </Point>
+ </Placemark>
+ <Placemark>
+     <name>State House Districts not defined (Baltimore city)</name>
+     <description>27599431</description>
+     <Point>
+         <coordinates>-076.569308400,39.2440676</coordinates>
+     </Point>
+ </Placemark>
+</Document>
+</kml>

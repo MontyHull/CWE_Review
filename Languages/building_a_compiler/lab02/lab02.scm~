@@ -1,0 +1,8 @@
+;;; Number 1
+
+(define (to-usdollar amt cur)
+  (cond((eqv? cur 'euro) 'euro)
+       ((eqv? cur 'yen) 'yen)
+       ((eqv? cur 'won) 'won)
+       )
+  )

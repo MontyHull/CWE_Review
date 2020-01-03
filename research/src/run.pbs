@@ -1,0 +1,9 @@
+#!/bin/bash
+#PBS -A USNAM40189476
+#PBS -l walltime=000:01:00
+#PBS -o stdoutMPtest
+#PBS -e stderrMPtest
+#PBS -l select=1:ncpus=16:mpiprocs=1
+#PBS -N openMPtest
+#PBS -q debug
+./evaltest

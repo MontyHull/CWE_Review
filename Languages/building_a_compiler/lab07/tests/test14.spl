@@ -1,0 +1,3 @@
+new y := true; write not y;
+;
+false

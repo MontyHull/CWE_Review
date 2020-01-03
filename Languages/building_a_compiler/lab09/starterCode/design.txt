@@ -1,0 +1,19 @@
+new var := -> STOR $ M
+VAR := -> STOR $ M
+read -> INN $
+write expr; -> OUT $
+* -> MUL $ CON
+/ -> DIV
++ -> ADD
+- -> SUB
+% -> MOD
+< -> SUB, BPOS, LOAD
+> -> SUB, BPOS, LOAD
+= -> SUB, BZO, LOAD
+!= -> SUB, BZO, LOAD
+<= -> SUB, BPOS,(BZO), LOAD
+>= -> SUB, BPOS,(BZO), LOAD
+while -> BRUN, everything in body, one of the above logical expressions
+if -> logical expression, code in block or, BRUN
+ifelse -> logical expression, (code in ifblock, BRUN) or (BRUN elsebody)
+block -> everything in block

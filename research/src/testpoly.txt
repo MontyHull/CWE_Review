@@ -1,0 +1,1 @@
+(9,6) rtz - rwz + tz2 - wz2 - 2ytz + 2ywz;

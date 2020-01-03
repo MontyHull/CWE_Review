@@ -1,0 +1,99 @@
+/* SI 413 Fall 2013
+ * Lab 6
+ * Parser for pat that just shows the parse tree
+ * YOUR NAME HERE
+ * PARTNER NAME HERE
+ */
+
+%code requires {
+
+#include <cstdlib>
+#include <iostream>
+#include "colorout.hpp"
+#include "parsetree.hpp"
+using namespace std;
+
+// This says that semantic values of tokens should be ParseTree pointers.
+#define YYSTYPE ParseTree*
+
+int yylex();
+extern colorout resout;
+extern colorout errout;
+
+}
+
+%code {
+
+int yyerror(const char *p) {
+  errout << "Parser error: " << p << endl;
+  exit(3);
+}
+
+ParseTree* tree; // This global will be set to the whole parse tree.
+
+// Global variable to indicate to stop parsing.
+bool done = false;
+
+// These are the colored output streams to make things all pretty.
+colorout resout(1, 'u');
+colorout errout(2, 'r');
+
+}
+
+  /* Tell bison to give descriptive error mesages. */
+%error-verbose
+
+  /* This defines the tokens. You will have to change this to
+     set their precedence and associativity!
+   */
+%left FOLD
+%left STOP
+%left COLON
+%left REV
+%left SYM
+%left NAME
+%left LB
+%left RB
+%right CAT
+
+%%
+
+  /*Note: YYACCEPT is a bison macro that just tells it to quit parsing.*/
+S: seq STOP              { tree = $1; YYACCEPT; }
+|                        { done = true;; }
+
+seq: seq FOLD seq     {$$ = new ParseTree("seq",$1,$2,$3);}
+|    seq seq     {$$ = new ParseTree("seq",$1,$2);} %prec CAT
+|    seq COLON NAME  {$$ = new ParseTree("seq",$1,$2,$3);}
+|    seq REV         {$$ = new ParseTree("seq",$1,$2);}
+|    SYM                {$$ = new ParseTree("seq",$1);}
+|    NAME               {$$ = new ParseTree("seq",$1);}
+|    LB seq RB          {$$ = new ParseTree("seq",$1,$2,$3);}
+
+/*|    seq              {$$ = new ParseTree("seq",$1);}*/
+%%
+int main()
+{
+  // This checks whether the output is a terminal.
+  // If it is, we'll show trees as pdf files.
+  bool tty = isatty(0) && isatty(2);
+
+  while(true) {
+    tree = NULL;
+    yyparse();
+    if (done) break;
+    if (tty) {
+      tree->writeDot("pat.dot");
+      system("dot -Tpdf pat.dot > pat.pdf");
+      system("evince pat.pdf > /dev/null 2>&1 &");
+    }
+    else {
+      tree->writeTo(resout);
+    }
+  }
+
+  // Try to kill off any parse tree windows that are hanging around
+  system("kill `pgrep -f \"evince pat.pdf\"`");
+
+  return 0;
+}

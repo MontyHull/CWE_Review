@@ -1,0 +1,11 @@
+4 3        # Number of operations
+-1 x -2  # Index -1 times index -2
+-3 x -4  # Index -3 times index -4
+0 s 1    # Index 0 minus index 1
+
+# x = multiplication
+# s = subtraction
+# a = add
+# d = divide
+# negative indexes are inputs
+# positive indexes are the ops

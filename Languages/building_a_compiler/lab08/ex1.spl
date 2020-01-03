@@ -1,0 +1,8 @@
+new r := 0;
+new sum := 0;
+r := read;
+while r != 0 {
+ sum := sum +r;
+ r := read;
+ }
+ write sum;

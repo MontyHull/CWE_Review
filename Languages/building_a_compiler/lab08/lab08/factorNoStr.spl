@@ -1,0 +1,48 @@
+# SPL factorizing input
+# read a number
+# print its factors
+#   one per line, with "0" instead of "*"
+#   between each factor (each line)
+#   since we have no strings.  Yet.
+#
+{
+    new mynum := read;
+    new curr := mynum;
+    new needstar := false;
+    #
+    # first the twos
+    while (curr % 2) = 0 {
+	if needstar = true { write 0; needstar := false;}
+	write 2;
+	needstar := true;
+	curr := curr / 2;
+    }
+    #
+    # now the threes
+    while (curr % 3) = 0 {
+	if needstar = true { write 0; needstar := false;}
+	write 3;
+	needstar := true;
+	curr := curr / 3;
+    }
+    #
+    # now the fives
+    while (curr % 5) = 0 {
+	if needstar = true { write 0; needstar := false;}
+	write 5;
+	needstar := true;
+	curr := curr / 5;
+    }
+    #
+    # now the sevens
+    while (curr % 7) = 0 {
+	if needstar = true { write 0; needstar := false;}
+	write 7;
+	needstar := true;
+	curr := curr / 7;
+    }
+    if (curr != 1) {
+        if needstar = true {write 0; needstar := false;}
+	write curr;
+    }
+}
